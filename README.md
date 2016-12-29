@@ -1,3 +1,3 @@
-# CSharp--
+### CSharp--
 
-###Bu repository C# örnekleri ve projelerimi icerir.
+Bu repository C# örnekleri ve projelerimi icerir.
